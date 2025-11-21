@@ -1,0 +1,11 @@
+# Local environment & secrets
+.env
+.env.*
+
+# Build outputs
+bin/
+
+# IDE/editor artifacts
+.vscode/
+*.log
+
